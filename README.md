@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ ¡Hola! Soy Natalia 💖<br>Soy estudiante de diseño gráfico con un enfoque en desarrollo frontend, UX/UI y diseño web. Me encanta crear interfaces ✨ intuitivas y atractivas, combinando código con una buena experiencia de usuario. También tengo conocimientos en backend y herramientas de calidad de código.<br><br>💻 Tecnologías y herramientas:<br>🌸 Frontend: JavaScript, TypeScript, React, HTML, CSS<br>🌷 Backend: Spring Boot, Node.js<br>💎 Calidad de código: ESLint, SonarQube<br>🎨 Diseño y UX/UI: Figma, Adobe XD<br><br>📌 Actualmente, sigo aprendiendo 📚 y explorando nuevas tecnologías para mejorar mis habilidades en desarrollo y diseño. ¡Siempre abierta a colaborar en proyectos interesantes! 💕
+✨ ¡Hola! Soy Natalia 💖<br>Soy estudiante de diseño gráfico con un enfoque en desarrollo frontend, UX/UI y diseño web. Me encanta crear interfaces ✨ intuitivas y atractivas, combinando código con una buena experiencia de usuario. También tengo conocimientos en backend y herramientas de calidad de código.<br><br>💻 Tecnologías y herramientas:<br>🌸 Frontend: JavaScript, TypeScript, React, HTML, CSS<br>🌷 Backend: Spring Boot, Node.js<br>📌 Actualmente, sigo aprendiendo 📚 y explorando nuevas tecnologías para mejorar mis habilidades en desarrollo y diseño. ¡Siempre abierta a colaborar en proyectos interesantes! 💕
 
 
 ## 🌐 Socials:
