@@ -7,7 +7,7 @@
 
 ## 🚀 Proyectos Destacados
 
-### 🌸 [ProyectoED-Habiture][(https://github.com/JavierGiraldo2212/ProyectoED-Habiture.git)]
+### 🌸 [ProyectoED-Habiture](https://github.com/JavierGiraldo2212/ProyectoED-Habiture.git)
 
 ### 💎 [Otro Proyecto](URL_DEL_REPOSITORIO)
 
